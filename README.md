@@ -1,4 +1,4 @@
-# A simple yet attractive login design using Vue js and Ant js
+# A simple yet attractive login design using Vue js and Ant Vue component library
 
 ## Project setup
 ```
